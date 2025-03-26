@@ -1,7 +1,7 @@
 
 # 🧠 Stock Movement Prediction from News Headlines
 
-This project explores how financial news headlines can be used to predict the directional movement (up/down) of stock prices. Using natural language processing and machine learning, we attempt to classify daily stock trends based on the top 25 headlines for each trading day.
+This project explores how financial news headlines can be used to predict the directional movement (up/down) of stock prices. Using natural language processing and machine learning, I attempt to classify daily stock trends based on the top 25 headlines for each trading day.
 
 ---
 
@@ -69,7 +69,7 @@ The dataset includes daily records of the top 25 news headlines from 2000 to 201
 
 ## 🚀 Planned Improvements (Model 3)
 
-We aim to take Model 3 further by enhancing both features and model architecture:
+I aim to take Model 3 further by enhancing both features and model architecture:
 
 ### 📊 Feature Engineering
 - **VADER sentiment** to better capture financial sentiment
@@ -97,7 +97,7 @@ We aim to take Model 3 further by enhancing both features and model architecture
 
 ## 📈 Outcome Goals
 
-With these enhancements, we aim to:
+With these enhancements, I aim to:
 - Surpass **60% accuracy**
 - Improve recall for underrepresented classes
 - Create a scalable, production-ready model
@@ -116,6 +116,15 @@ With these enhancements, we aim to:
 MIT License © 2025
 
 ---
-# Stock-Sentiment-Analysis
-This is a mini project to solve a problem statement available on Kaggle. This project uses NLP and ML for stock sentiment analysis using news headlines.
-Code inspiration taken from videos made by Krish Naik. Video link - https://www.youtube.com/watch?v=h-LGjJ_oANs&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=12
+
+---
+
+## 🙏 Code Attribution
+
+The initial baseline code and inspiration for this project came from a YouTube tutorial by **Krish Naik**:
+
+📹 [Watch the video here](https://www.youtube.com/watch?v=h-LGjJ_oANs&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=12)
+
+I extend and improve upon this foundation through advanced feature engineering, ensemble learning, and hyperparameter optimization techniques.
+
+---
